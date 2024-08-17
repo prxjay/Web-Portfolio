@@ -2,16 +2,10 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/prxjay/Web-Portfolio)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
-
-![Screenshot 2024-08-17 040944](https://github.com/user-attachments/assets/d999ccba-80a4-4bae-acc2-2e253e516ea0)
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Web Portfolio Website
-
-### Deployed Link: [View Portfolio](https://your-portfolio-link.com)
+#### Website: [View Portfolio](https://your-portfolio-link.com)
+#### Repo Link: [Web-Portfolio](https://github.com/prxjay/Web-Portfolio)
 
 ### This is a responsive web portfolio built from a Figma design with the following features:
 - Modern, visually appealing design
@@ -30,3 +24,8 @@ The portfolio is built using the following technologies:
 - Tailwind CSS
 - Bootstrap
 - Figma (for design)
+
+### Demo Screenshots:
+![Screenshot 2024-08-17 161426](https://github.com/user-attachments/assets/8ab5de0c-ef4c-4e8a-96c2-b8411b2e2d7e)
+<br>
+![Screenshot 2024-08-17 162036](https://github.com/user-attachments/assets/171f1e9c-8731-4e6c-8443-cf9016dcc8d6)
