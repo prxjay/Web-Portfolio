@@ -4,7 +4,7 @@
 
 This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-#### Website: [View Portfolio](https://your-portfolio-link.com)
+#### Website: [View Portfolio](https://prxjay.github.io/Web-Portfolio/MyPortfolio.html)
 #### Repo Link: [Web-Portfolio](https://github.com/prxjay/Web-Portfolio)
 
 ### This is a responsive web portfolio built from a Figma design with the following features:
