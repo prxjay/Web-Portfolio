@@ -2,10 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/prxjay/Web-Portfolio)
 
-This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
-#### Website: [View Portfolio](https://prxjay.github.io/Web-Portfolio/MyPortfolio.html)
-#### Repo Link: [Web-Portfolio](https://github.com/prxjay/Web-Portfolio)
+### Deployed Link: [View Portfolio](https://prxjay.github.io/Web-Portfolio/MyPortfolio.html)
+### Repo Link: [github.com/prxjay/Web-Portfolio](https://github.com/prxjay/Web-Portfolio)
 
 ### This is a responsive web portfolio built from a Figma design with the following features:
 - Modern, visually appealing design
