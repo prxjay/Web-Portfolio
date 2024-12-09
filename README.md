@@ -19,7 +19,6 @@ The portfolio is built using the following technologies:
 
 - HTML
 - CSS
-- Tailwind CSS
 - Bootstrap
 - Figma (for design)
 
